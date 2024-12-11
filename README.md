@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bxster
+- Master's Student in Information and Automation Engineering at Marche Polytechnic University.
 - 📫 How to reach me: e-mail: baldellimarketing@gmail.com
-- I’m currently learning Ingegneria Informatica e dell'Automazione in Ancona UNIVPM
 
-- In an effort to centralize and organize my work, I have cloned several repositories from different old GitHub accounts
+- In an effort to centralize and organize my work, I have cloned some repositories from different old GitHub accounts
 and consolidated them here for easier management.
 
 <!---
