@@ -2,7 +2,7 @@
 - Master's Student in Information and Automation Engineering at Marche Polytechnic University.
 - 📫 How to reach me: e-mail: baldellimarketing@gmail.com
 
-- In an effort to centralize and organize my work, I have cloned some repositories from different old GitHub accounts
+- In an effort to centralize and organize my work, I have cloned/forked some repositories from different old GitHub accounts
 and consolidated them here for easier management.
 
 <!---
